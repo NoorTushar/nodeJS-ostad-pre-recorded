@@ -1,0 +1,11 @@
+{
+   "name": "04-fs-module",
+   "version": "1.0.0",
+   "description": "",
+   "main": "main.js",
+   "scripts": {
+      "dev": "node --watch main.js"
+   },
+   "author": "Tushar Khan",
+   "license": "ISC"
+}
