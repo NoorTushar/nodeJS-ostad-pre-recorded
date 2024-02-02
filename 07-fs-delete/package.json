@@ -1,0 +1,11 @@
+{
+   "name": "07-fs-delete",
+   "version": "1.0.0",
+   "description": "",
+   "main": "main.js",
+   "scripts": {
+      "dev": "node --watch main.js"
+   },
+   "author": "Tushar Khan",
+   "license": "ISC"
+}
