@@ -1,0 +1,12 @@
+{
+   "name": "02-request-response",
+   "version": "1.0.0",
+   "description": "",
+   "main": "main.js",
+   "scripts": {
+      "start": "node main.js",
+      "dev": "node --watch main.js"
+   },
+   "author": "Tushar Khan",
+   "license": "ISC"
+}
