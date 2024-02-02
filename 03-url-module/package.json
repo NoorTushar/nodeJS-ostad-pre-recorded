@@ -1,0 +1,12 @@
+{
+   "name": "03-url-module",
+   "version": "1.0.0",
+   "description": "",
+   "main": "main.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "node --watch main.js"
+   },
+   "author": "Tushar Khan",
+   "license": "ISC"
+}
