@@ -18,6 +18,8 @@ const server = http.createServer((req, res) => {
 });
 
 const port = 5500;
-server.listen(port);
+server.listen(port, ()=>
+   {console.log(`server running successfully at port: ${port}`)}
+);
 
-console.log(`server running successfully at port: ${port}`);
+
